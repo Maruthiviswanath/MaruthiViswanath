@@ -1,16 +1,19 @@
-## Hi there 👋
+ 
+ <h1 align='center'>
+  Hi there 👋 I'm Viswa 👨‍💻
+</h1>
 
-<!--
-**Maruthiviswanath/MaruthiViswanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  A python developer.
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href=" https://github.com/Maruthiviswanath">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>
+  <a href=" https://www.linkedin.com/in/mulamaruthiviswanath/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
